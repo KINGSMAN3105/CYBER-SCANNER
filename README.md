@@ -24,7 +24,7 @@
 ## 🖼️ Screenshots
 
 ### Main GUI  
-![CyberScanner UI](screenshots/ui.png)
+![CyberScanner HomePage](screenshots/ui.png)
 
 ### Scan Results  
 ![Scan Results](screenshots/scan_result.png)
